@@ -30,15 +30,15 @@ const Home = () => {
     },
     {
       id: 2,
-      title: 'Service 2',
-      description: 'Apcb',
-      link: '/home',
+      title: 'Check balance evm wallet',
+      description: 'For check the balance of evm wallet',
+      link: '/evmbalance',
     },
     {
       id: 3,
       title: 'Service 3',
       description: 'wir',
-      link: '/home',
+      link: '/',
     },
   ];
   const getRandomNumber = (min, max) => {
