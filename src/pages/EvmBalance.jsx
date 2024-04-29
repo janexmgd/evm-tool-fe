@@ -205,7 +205,7 @@ const EvmBalance = () => {
                         type='submit'
                         disabled={loading}
                       >
-                        Repair
+                        Run Again
                       </Button>
                       <Button
                         className='w-25 col-4 ms-2'
